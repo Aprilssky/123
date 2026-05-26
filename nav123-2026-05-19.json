@@ -524,6 +524,16 @@
       "description": "在线工具箱 — 10款实用小工具",
       "createdAt": "2026-05-26T13:26:00.000Z",
       "updatedAt": "2026-05-26T13:26:00.000Z"
+    },
+    {
+      "id": "1778264400001",
+      "name": "🎮 games",
+      "url": "https://aprilssky.github.io/games/",
+      "icon": "🎮",
+      "category": "GitHub Pages",
+      "description": "在线小游戏 — 数独·扫雷·消消乐·2048·贪吃蛇",
+      "createdAt": "2026-05-26T13:55:00.000Z",
+      "updatedAt": "2026-05-26T13:55:00.000Z"
     }
   ],
   "categoriesOrder": [
