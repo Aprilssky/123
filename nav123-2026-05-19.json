@@ -357,7 +357,7 @@
     },
     {
       "id": "1747641600001",
-      "name": "🌍 rectworld",
+      "name": "rectworld",
       "url": "https://aprilssky.github.io/rectworld/",
       "icon": "🌍",
       "category": "GitHub Pages",
@@ -367,7 +367,7 @@
     },
     {
       "id": "1747641600002",
-      "name": "🖼️ 3D-art",
+      "name": "3D-art",
       "url": "https://aprilssky.github.io/3D-art/",
       "icon": "🖼️",
       "category": "GitHub Pages",
@@ -377,7 +377,7 @@
     },
     {
       "id": "1747641600003",
-      "name": "🐟 fish-dream",
+      "name": "fish-dream",
       "url": "https://aprilssky.github.io/fish-dream/",
       "icon": "🐟",
       "category": "GitHub Pages",
@@ -387,7 +387,7 @@
     },
     {
       "id": "1747641600004",
-      "name": "🎮 4fun.github.io",
+      "name": "4fun.github.io",
       "url": "https://aprilssky.github.io/4fun.github.io/",
       "icon": "🎮",
       "category": "GitHub Pages",
@@ -397,7 +397,7 @@
     },
     {
       "id": "1747641600005",
-      "name": "📄 resume",
+      "name": "resume",
       "url": "https://aprilssky.github.io/resume/",
       "icon": "📄",
       "category": "GitHub Pages",
@@ -407,7 +407,7 @@
     },
     {
       "id": "1747641600006",
-      "name": "🤖 multi-agent-workflow",
+      "name": "multi-agent-workflow",
       "url": "https://aprilssky.github.io/multi-agent-workflow/",
       "icon": "🤖",
       "category": "GitHub Pages",
@@ -417,7 +417,7 @@
     },
     {
       "id": "1747641600007",
-      "name": "🎨 p5js-art",
+      "name": "p5js-art",
       "url": "https://aprilssky.github.io/p5js-art/",
       "icon": "🎨",
       "category": "GitHub Pages",
@@ -427,7 +427,7 @@
     },
     {
       "id": "1747641600008",
-      "name": "🎲 3d-dominoes",
+      "name": "3d-dominoes",
       "url": "https://aprilssky.github.io/3d-dominoes/",
       "icon": "🎲",
       "category": "GitHub Pages",
@@ -437,7 +437,7 @@
     },
     {
       "id": "1779540511229",
-      "name": "🏛️ 3d-portfolio",
+      "name": "3d-portfolio",
       "url": "https://aprilssky.github.io/3d-portfolio/",
       "icon": "🏛️",
       "category": "GitHub Pages",
@@ -447,7 +447,7 @@
     },
     {
       "id": "1779540511230",
-      "name": "🔧 3d-skill-demo",
+      "name": "3d-skill-demo",
       "url": "https://aprilssky.github.io/3d-skill-demo/",
       "icon": "🔧",
       "category": "GitHub Pages",
@@ -457,7 +457,7 @@
     },
     {
       "id": "1779540511231",
-      "name": "✍️ blog",
+      "name": "blog",
       "url": "https://aprilssky.github.io/blog/",
       "icon": "✍️",
       "category": "GitHub Pages",
@@ -467,7 +467,7 @@
     },
     {
       "id": "1779540511232",
-      "name": "🎳 bowling-game",
+      "name": "bowling-game",
       "url": "https://aprilssky.github.io/bowling-game/",
       "icon": "🎳",
       "category": "GitHub Pages",
@@ -477,7 +477,7 @@
     },
     {
       "id": "1779540511233",
-      "name": "📝 md-docs",
+      "name": "md-docs",
       "url": "https://aprilssky.github.io/md-docs/",
       "icon": "📝",
       "category": "GitHub Pages",
@@ -487,7 +487,7 @@
     },
     {
       "id": "1779540511234",
-      "name": "💬 multi-ai-chat",
+      "name": "multi-ai-chat",
       "url": "https://aprilssky.github.io/multi-ai-chat/",
       "icon": "💬",
       "category": "GitHub Pages",
@@ -497,7 +497,7 @@
     },
     {
       "id": "1779540511235",
-      "name": "🟩 r3f-editor",
+      "name": "r3f-editor",
       "url": "https://aprilssky.github.io/r3f-editor/",
       "icon": "🟩",
       "category": "GitHub Pages",
@@ -507,7 +507,7 @@
     },
     {
       "id": "1779540511236",
-      "name": "📈 stock-trading",
+      "name": "stock-trading",
       "url": "https://aprilssky.github.io/stock-trading/",
       "icon": "📈",
       "category": "GitHub Pages",
@@ -517,7 +517,7 @@
     },
     {
       "id": "1778264400000",
-      "name": "🧰 tools",
+      "name": "tools",
       "url": "https://aprilssky.github.io/tools/",
       "icon": "🧰",
       "category": "GitHub Pages",
@@ -527,13 +527,63 @@
     },
     {
       "id": "1778264400001",
-      "name": "🎮 games",
+      "name": "games",
       "url": "https://aprilssky.github.io/games/",
       "icon": "🎮",
       "category": "GitHub Pages",
       "description": "在线小游戏 — 数独·扫雷·消消乐·2048·贪吃蛇",
       "createdAt": "2026-05-26T13:55:00.000Z",
       "updatedAt": "2026-05-26T13:55:00.000Z"
+    },
+    {
+      "id": "1780045970110",
+      "name": "2026",
+      "url": "https://aprilssky.github.io/2026/",
+      "icon": "📅",
+      "category": "GitHub Pages",
+      "description": "365天格子日历 — 每天一个小格子",
+      "createdAt": "2026-05-29T09:12:50.000Z",
+      "updatedAt": "2026-05-29T09:12:50.000Z"
+    },
+    {
+      "id": "1780045970111",
+      "name": "butterfly-collection",
+      "url": "https://aprilssky.github.io/butterfly-collection/",
+      "icon": "🦋",
+      "category": "GitHub Pages",
+      "description": "世界蝴蝶图鉴 — 收集所有种类蝴蝶",
+      "createdAt": "2026-05-29T09:12:50.000Z",
+      "updatedAt": "2026-05-29T09:12:50.000Z"
+    },
+    {
+      "id": "1780045970112",
+      "name": "person-collection",
+      "url": "https://aprilssky.github.io/person-collection/",
+      "icon": "🎭",
+      "category": "GitHub Pages",
+      "description": "人物集 — 跨越时空的对话",
+      "createdAt": "2026-05-29T09:12:50.000Z",
+      "updatedAt": "2026-05-29T09:12:50.000Z"
+    },
+    {
+      "id": "1780045970113",
+      "name": "boids",
+      "url": "https://aprilssky.github.io/boids/",
+      "icon": "🐟",
+      "category": "GitHub Pages",
+      "description": "鱼群算法仿真 — Boid flocking simulation",
+      "createdAt": "2026-05-29T09:12:50.000Z",
+      "updatedAt": "2026-05-29T09:12:50.000Z"
+    },
+    {
+      "id": "1780045970114",
+      "name": "wqb-manager",
+      "url": "https://aprilssky.github.io/wqb-manager/",
+      "icon": "🧠",
+      "category": "GitHub Pages",
+      "description": "WQB Brain Alpha Manager",
+      "createdAt": "2026-05-29T09:12:50.000Z",
+      "updatedAt": "2026-05-29T09:12:50.000Z"
     }
   ],
   "categoriesOrder": [
